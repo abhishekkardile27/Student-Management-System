@@ -28,32 +28,7 @@ Database
 MySQL
 Build Tool
 Maven
- # Project Structure
-src/main/java
-│
-├── controller
-│   └── StudentController.java
-│
-├── entity
-│   └── Student.java
-│
-├── repository
-│   └── StudentRepository.java
-│
-├── service
-│   └── StudentService.java
-│
-└── serviceImpl
-    └── ServiceImpl.java
 
-src/main/resources
-│
-├── templates
-│   ├── index.html
-│   ├── new_student.html
-│   └── update_student.html
-│
-└── application.properties
 # Functionalities
 Student Management
 Create student profiles
@@ -67,3 +42,12 @@ Fetch all students
 Find student by ID
 Update student information
 Delete student records
+
+# Java Full Stack Developer
+
+Java
+Spring Boot
+Hibernate
+MySQL
+Thymeleaf
+REST APIs
