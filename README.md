@@ -1,4 +1,5 @@
-# Student-Management-System
+Student Management System
+
 A full-stack web application developed using Java Spring Boot, Spring Data JPA, Hibernate, Thymeleaf, and MySQL to manage student records efficiently. The system provides complete CRUD (Create, Read, Update, Delete) operations, allowing administrators to add, view, update, and remove student information through a user-friendly web interface.
 
 🚀 Features
@@ -66,7 +67,13 @@ Fetch all students
 Find student by ID
 Update student information
 Delete student records
-
+🗄️ Database Schema
+Student Table
+Column	Type
+id	INT (Primary Key)
+name	VARCHAR
+email	VARCHAR
+course	VARCHAR
 ⚙️ Installation & Setup
 Clone Repository
 git clone https://github.com/your-username/student-management-system.git
@@ -98,4 +105,3 @@ Thymeleaf Template Engine
 MySQL Database Integration
 Dependency Injection
 Maven Project Management
-
